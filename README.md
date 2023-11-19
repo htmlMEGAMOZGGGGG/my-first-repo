@@ -1,3 +1,1 @@
-# my-first-repo
-My first repository on Gifthub
-changes made 
+# my-first-repo-github.io
